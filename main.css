@@ -1,0 +1,159 @@
+/*BACKGROUND - PANEL - WATERMARK*/
+html, body {
+		margin:0; 
+		padding:0;
+		}
+body {
+	background:#2C3C48; /*Change Background Color Here */
+	font:10pt tahoma; color:#85ABD5; /*Change Overall Font Properties Here */
+	}
+
+/*CONTENT BODY*/				
+#textwrap {
+		position:relative; 
+		margin:0 auto; 
+		padding:5px 0 0 0; 
+		width:775px;
+		}
+#topBanner {height:195px; width:775px; background:url('images/banner.jpg') no-repeat top left;}
+#banner {width:100%; border-collapse:collapse; margin:11px 0;}
+#banner td {padding:0;}
+.contact {text-align:left; font-size:8pt; height:132px; width:179px; padding:20px 5px 6px 15px; background:#202931 url('images/contact.jpg') repeat-x top center; border:1px solid #49627B;}
+.contact table {margin:-15px 0 0px -2px; width:100%; background:url('images/contact.gif') no-repeat center;}
+.contact td {padding:0;}
+#flashBanner {height:160px; width:350px; background:#49627B; margin:0 1px;}
+#content {width:503px; background:#0C0E10; padding:15px 30px;}
+#content h1 {margin-bottom:25px; margin-left:-10px;}
+#content h1,#content h2,#content h3,#content h4,#content h5,#content b {font-weight:bold; color:#93C2F0;}
+#footer {font-size:8pt; text-align:center; padding:5px 20px; background:#202931; margin-top:10px;}
+#menu {width:199px; padding:30px 0px 6px 0px; position:absolute; top:382px; right:0px; background:#AFBECD url('images/contact.jpg') repeat-x top center; border:1px solid #0C0E10;}
+#menu a {display:block; padding:8px 20px 8px 20px; border-bottom:1px solid #D8E7F6; font-weight:bold; color:#202931;}
+#menu a:hover {color:#fff; background:#49627B; text-decoration:none;}
+#subMenu {background:#6B839B;}
+#subMenu a {font-size:8pt; padding:3px 20px 3px 35px; color:#D8E7F6;}
+#affiliations {text-align:center;}
+#affiliations img {display:inline; margin:5px 10px;}
+.gallery .shadowLeft {position:relative; left:10px;}
+
+a {
+color:#85ABD5; /* Change Content Link Color Here */
+text-decoration:none;
+}
+a:hover {
+		color:#85ABD5; /*Change Content Link Hover Color Here */
+		text-decoration:underline;
+		}
+
+.copyright a {
+			margin-right:3px; 
+			text-decoration:underline;
+			}
+.copyright a:hover {
+				margin-right:3px; 
+				text-decoration:underline;
+				}
+
+/*FONT SIZES*/
+.smaller {
+		padding-top:2em; 
+		margin-bottom:0; 
+		text-align:center; 
+		font-size:.70em;
+		}
+.smallest {
+		padding-top:2em; 
+		margin-bottom:0; 
+		text-align:center; 
+		font-size:.65em;
+		}
+.copyright {
+		padding-top:0; 
+		margin-bottom:25px; 
+		text-align:center; 
+		font-size:.75em;
+		}
+h1,h2,h3,h4,h5,b {font-weight:bold;}
+h1 {font-size:1.3em;}
+h2 {font-size:1.2em;}
+h3 {font-size:1.1em;}
+h4 {font-size:1em;}
+h5 {font-size:.85em;} 
+
+/* IMAGES */
+.left {
+	margin-right:1em; 
+	float:left;
+	}
+.right {
+	margin-left:1.5em; 
+	margin-bottom:1em; 
+	float:right;
+	}
+.left, .right {clear:both;}
+img {border:none;}
+.p100, .p125, .p150, .p175, .p200, .p225, .p250 {
+												float:left; 
+												margin:0 .75em 0 0;
+												}
+.p100 {width:100px;}
+.p125 {width:125px;}
+.p150 {width:150px;}
+.p175 {width:175px;}
+.p200 {width:200px;}
+.p225 {width:225px;}
+.p250 {width:250px;}
+.p175r {
+	width:175px; 
+	float:right; 
+	margin:0 0 0 .75em;
+	}
+
+/*DROP SHADOWS*/
+.shadowRight {
+  float:right;
+  background: url('images/drop-shadow.png') no-repeat bottom right !important;
+  background:;
+  margin: 10px 0 10px 20px;
+  }
+.shadowRight img, #map_canvas {
+  position: relative;
+  background-color: #fff;
+  margin: -6px 6px 6px -6px;
+  }
+.shadowLeft {
+  float:left;
+  background: url('images/drop-shadow.png') no-repeat bottom right !important;
+  background:;
+  margin: 10px 20px 10px 0;
+  }
+.shadowLeft img {
+  position: relative;
+  background-color: #fff;
+  margin: -6px 6px 6px -6px;
+  }
+#mapContainer {
+  float:right;
+  background: url('images/drop-shadow.png') no-repeat bottom right !important;
+  background:;
+  margin: 10px 0 10px 20px;
+  }
+#map_canvas {width:300px; height:270px;}
+
+
+  
+/*MISC */
+.nobull {
+		list-style:none; 
+		margin:0; 
+		padding:0;
+		}
+#validation {
+			position:absolute; 
+			bottom:-15px; 
+			right:344px; 
+			font-size:.75em;
+			}
+#validation a {text-decoration:none;}
+#validation a:hover {text-decoration:underline;}
+span.nonie {display:inline;}
+.clear {clear:both;}

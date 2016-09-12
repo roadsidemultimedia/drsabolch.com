@@ -1,0 +1,41 @@
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		font:8pt Tahoma;
+	}
+	
+	#flashcontent {
+		height: 100%;
+		text-align:center;
+		
+	}
+	
+	#flashcenter {
+		height: 100%;
+		}
+		
+	.table {
+		height: 100%;
+		}
+	/* end hide */
+
+	body {
+		color: #fff; /*Edit Text Color Here*/
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background:#2c3c48 /* url('images/IMAGE.jpg') */;
+		font:10pt Lucida Sans Unicode, Lucida Grande, sans-serif;
+	}
+	
+	a, a:hover {color:#fff;}
+	
+	img {border:none;}
+
+	#counter{
+		height: 50px;
+		width:100%;
+		position:fixed;
+		bottom:0;
+		text-align:center;
+	}

@@ -32,8 +32,9 @@ Evening & Saturday hours available. </p></div>
 <td valign="top" align="right">
 <div class="contact">
 <p><b>Beverly Hills</b><br />
-435 N. Bedford Dr. #405<br />
-Beverly Hills, CA 90210<br />
+9025 Wilshire Blvd<br />
+Suite 307<br />
+Beverly Hills, CA 90211<br />
 <b>Phone:</b> 310-273-8266<br />
 &nbsp;<br />
 <p><a href="http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=&daddr=34.06853,+-118.405663&sll=37.0625,-95.677068&sspn=45.553578,74.091797&ie=UTF8&z=16&om=1" target="_blank">Online Directions</a><br /><a href="contact-information.htm#location2">Contact Us</a><br />
